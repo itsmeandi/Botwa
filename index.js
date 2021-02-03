@@ -8,9 +8,9 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '❤️Miqdad Mods❤️'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/thelfd.06'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6285326364468'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = 'SherlockHolmes'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/andibasoamirullah_'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+6282292119677'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'Comming Soon;('; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://youtube.com/channel/UCa0h-GwjdTQR99K8DwzjANw'; // JANGAN UBAH-UBAH INFO!!!
